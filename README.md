@@ -5,4 +5,4 @@
   - [Portfolio](https://madhavkauntia.com)
   - [Twitter](https://twitter.com/madhavkauntia)
   - [LinkedIn](https://linkedin.com/in/madhavkauntia)
-  - [Mail](mail@madhavkauntia.com)
+  - [Mail](mailto:mail@madhavkauntia.com)
