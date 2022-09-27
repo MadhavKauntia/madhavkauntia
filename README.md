@@ -2,7 +2,7 @@
 - 🌱 I’m ~currently~ always learning.
 - 💬 Ask me about Java, Spring Boot, Kafka, Cassandra, MySQL, React, Next.js, K8s or Node.
 - 📫 How to reach me:
-  - [Portfolio](madhavkauntia.com)
-  - [Twitter](twitter.com/madhavkauntia)
-  - [LinkedIn](linkedin.com/in/madhavkauntia)
+  - [Portfolio](https://madhavkauntia.com)
+  - [Twitter](https://twitter.com/madhavkauntia)
+  - [LinkedIn](https://linkedin.com/in/madhavkauntia)
   - [Mail](mail@madhavkauntia.com)
