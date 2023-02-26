@@ -1,6 +1,6 @@
 - 🔭 I enjoy writing code.
 - 🌱 I’m ~currently~ always learning.
-- 💬 Ask me about Java, Spring Boot, Kafka, Cassandra, MySQL, React, Next.js, K8s or Node.
+- 💬 Ask me about Java, Kotlin, Spring Boot, Kafka, Cassandra, MySQL, React, Next.js, K8s or Node.
 - 📫 How to reach me:
   - [Portfolio](https://madhavkauntia.com)
   - [Twitter](https://twitter.com/madhavkauntia)
